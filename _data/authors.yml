@@ -1,0 +1,21 @@
+ghost:
+  username: ghost
+  name: Ghost
+  url_full: http://jekyller.github.io/jasper2/
+  url: jekyller.github.io/jasper2
+  bio: The professional publishing platform
+  picture: assets/images/ghost.png
+  facebook: ghost
+  twitter: tryghost
+  cover: False
+leandro:
+  username: leandro
+  name: Leandro Bighetti
+  location: Berlin, Germany
+  url_full: http://leandrobighetti.com
+  url: leandrobighetti.com
+  bio: Leandro é ...
+  picture: img/leandro.png
+  facebook: False
+  twitter: leandrobighetti
+  cover: False
