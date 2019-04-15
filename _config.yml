@@ -30,7 +30,7 @@ twitter: leandrobighetti # replace by your username
 facebook: False # replace by your username
 
 # Disqus
-disqus: False
+disqus: True
 disqus_shortname: leandrobighetti # replace with your disqus username
 
 # Google Analytics
