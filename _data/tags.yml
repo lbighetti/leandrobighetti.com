@@ -3,3 +3,8 @@ elixir:
   description: Elixir is a dynamic, functional language designed for building scalable and maintainable applications.
   # cover: img/elixir.png
   cover: false
+mobile:
+  name: mobile
+  description: Desenvolvimento em plataformas móveis - iOS e Android
+  # cover: img/elixir.png
+  cover: false
