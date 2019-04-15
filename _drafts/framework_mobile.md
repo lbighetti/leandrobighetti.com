@@ -218,7 +218,7 @@ Tipicamente em Android ou iOS você tem que reinstalar o seu pacote para ver as 
 
 Pra finalizar, o gigante Google tem um time dedicado desenvolvendo Flutter e Dart, e isso fica bem claro pela alta qualidade de todo o ecossistema, atualizações de bug fixes e melhorias.
 
-Se olharmos o resumo do último mês no repositório do GitHub deles, eles tem *267 Pull requests aceitos por 58 pessoas. ***Insano.**
+Se olharmos o resumo do último mês no repositório do GitHub deles, eles tem _267 Pull requests aceitos por 58 pessoas. **Insano**._
 
 ![](https://cdn-images-1.medium.com/max/3048/1*gl9Pwr3v1ibiiJ9mGvWWbg.png)
 
