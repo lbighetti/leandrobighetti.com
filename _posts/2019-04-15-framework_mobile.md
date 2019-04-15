@@ -11,6 +11,7 @@ author: leandro
 excerpt:  Com tantas opções, como escolher um framework mobile em 2019?
 meta-description: Com tantas opções, como escolher um framework mobile em 2019?
 cover: False
+comments: true
 ---
 
 Com tantas opções, como escolher um framework mobile em 2019?
