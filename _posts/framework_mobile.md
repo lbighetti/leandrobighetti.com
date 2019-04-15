@@ -3,6 +3,7 @@ layout: post
 current: post
 navigation: True
 title: Escolhendo um framework mobile em 2019
+date: 2019-04-15 10:18:00
 tags: mobile
 class: post-template
 subclass: 'post tag-mobile'
