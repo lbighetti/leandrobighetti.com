@@ -18,7 +18,7 @@ Com tantas opções, como escolher um framework mobile em 2019?
 
 ---
 
-Antes, tínhamos poucas opções e era claro qual caminho seguir. Em 2018 temos tantas opções que é preciso perguntar:
+Antes, tínhamos poucas opções e era claro qual caminho seguir. Em 2019 temos tantas opções que é preciso perguntar:
 
 * **O que usar?**
 
@@ -128,7 +128,7 @@ X.
 M.
 L.
 
-**Em 2018.**
+**Em 2019.**
 
 Não pode ser.
 
@@ -156,7 +156,7 @@ No geral, a solução é muito boa. Mas… O meu nêmesis do XML ainda continua 
 
 Se você consegue tolerar o XML, eu recomendo tentar esta solução porque Kotlin é uma linguagem excelente e a integração com o Android Studio é perfeita.
 
-Eu decidi que eu não tenho estômago pra isso em 2018 e resolvi continuar a minha busca.
+Eu decidi que eu não tenho estômago pra isso em 2019 e resolvi continuar a minha busca.
 
 Nisso, cai num framework chamado Anko.
 
@@ -264,7 +264,7 @@ Xamarin, C#, mesma coisa. Ótimo framework, ótima linguagem, mas não é pra mi
 
 ## Conclusão
 
-Em 2018, desenvolver um app mobile é talvez mais fácil do que nunca, e ao mesmo tempo o grande número de framework pode nos deixar paralisados(as).
+Em 2019, desenvolver um app mobile é talvez mais fácil do que nunca, e ao mesmo tempo o grande número de framework pode nos deixar paralisados(as).
 
 Minha estratégia foi explorar soluções que achei que faziam sentido, dado o meu contexto. Nem de perto explorei todas elas, apenas um número razoável, e escolhi a que melhor me identifiquei.
 
