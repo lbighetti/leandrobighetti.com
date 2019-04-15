@@ -11,7 +11,7 @@ author: leandro
 excerpt:  Com tantas opções, como escolher um framework mobile em 2019?
 meta-description: Com tantas opções, como escolher um framework mobile em 2019?
 cover: False
-comments: true
+comments: false
 ---
 
 Com tantas opções, como escolher um framework mobile em 2019?
@@ -270,6 +270,7 @@ Minha estratégia foi explorar soluções que achei que faziam sentido, dado o m
 
 Minha escolha, foi o Flutter. Pontos que me ganharam: um setup fácil e layout em código. Pontos bônus: debug no celular com *hot reload *e liberdade de usar qual editor eu quiser.
 
-E você? Qual a sua  escolha? Deixa nos comentários pra gente comparar as experiências!
+E você? Qual a sua  escolha? Me manda lá no twitter pra gente comparar as experiências!
+https://twitter.com/leandrobighetti
 
 Obrigado por sobreviver até aqui e até a próxima!
