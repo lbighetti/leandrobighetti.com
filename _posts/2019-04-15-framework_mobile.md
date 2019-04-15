@@ -271,6 +271,6 @@ Minha estratégia foi explorar soluções que achei que faziam sentido, dado o m
 Minha escolha, foi o Flutter. Pontos que me ganharam: um setup fácil e layout em código. Pontos bônus: debug no celular com *hot reload *e liberdade de usar qual editor eu quiser.
 
 E você? Qual a sua  escolha? Me manda lá no twitter pra gente comparar as experiências!
-https://twitter.com/leandrobighetti
+[https://twitter.com/leandrobighetti](https://twitter.com/leandrobighetti)
 
 Obrigado por sobreviver até aqui e até a próxima!
